@@ -1,7 +1,15 @@
 */.wasp/
-*/.env.server
-*/.env.client
+*/.env.server*
+*/.env.client*
 */node_modules
 */migrations
 */.DS_Store
 .DS_Store
+*/**/.terraform
+*/**/.terraform.lock.hcl
+*/**/terraform.tfstate
+*/**/terraform.tfstate.backup
+*/**/terraform.tfvars
+*/**/terraform-provider-*
+*/**/.terraform-version
+*/**/.terraformrc
