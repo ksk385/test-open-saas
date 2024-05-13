@@ -13,3 +13,5 @@
 */**/terraform-provider-*
 */**/.terraform-version
 */**/.terraformrc
+# Local Netlify folder
+.netlify
